@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
