@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0088-merge-sorted-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
