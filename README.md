@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0946-validate-stack-sequences](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0155-min-stack) |
+| [0946-validate-stack-sequences](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0946-validate-stack-sequences](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
