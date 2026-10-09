@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0155-min-stack) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
