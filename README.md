@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0344-reverse-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0155-min-stack) |
 | [0946-validate-stack-sequences](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0155-min-stack) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/basuujaan2006-sketch/leetcode-dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
